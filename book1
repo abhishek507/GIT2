@@ -1,4 +1,8 @@
 this is book1
+<<<<<<< HEAD
 new line added
+=======
+new line 2
+>>>>>>> phase1
 checking push command by using book1
 
