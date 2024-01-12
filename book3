@@ -1,2 +1,6 @@
 this is book3
+<<<<<<< HEAD
 abcdefghijklmnopqrstuvwxyz
+=======
+line2 is added for merge conflict
+>>>>>>> phase1
